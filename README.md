@@ -1,11 +1,8 @@
 
-
-  <div style="text-align: center;">
-<h1 align=center>   Hi there 👋 I'm Robin, currently studying at 42Lyon</h1>
-    </div>
+<h1 align="center">   Hi there 👋 I'm Robin, currently studying at 42Lyon</h1>
   <h2> What I'm currently learning</h2>
   <a href="https://skillicons.dev" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,docker" />
+    <img align=center src="https://skillicons.dev/icons?i=c,cpp,docker" />
   <h2>How to contact me ?</h2>
           <a href="mailto:rgeral@student.42lyon.fr" />
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
