@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://badge42.vercel.app/api/v2/clf72f7ly00060fjp1mjyenyb/stats?cursusId=21&coalitionId=304
-
 
 <!--
 **Chicanoss/Chicanoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
