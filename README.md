@@ -12,5 +12,4 @@
   
   <br><br>
 
-[![rgeral's 42 stats](https://badge42.vercel.app/api/v2/clf72f7ly00060fjp1mjyenyb/stats?cursusId=21&coalitionId=304)](https://github.com/JaeSeoKim/badge42)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chicanoss&show_icons=true&theme=radical)
