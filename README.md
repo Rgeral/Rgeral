@@ -28,7 +28,7 @@
     and working on the
     <a href="https://github.com/PierreLemmel/plml-shows-api">Aleas</a> project.
   </p>
-  <p>I'm still working on my <a href="https://rgeral.github.io/Portfolio/">portfolio</a>.</p>
+  <p>I'm still working on my <a href="https://rgeral.github.io/portfolio/">portfolio</a>.</p>
 
   <h2>How to contact me? 📧</h2>
   <p>
