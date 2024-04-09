@@ -17,7 +17,7 @@
   <h2>What I'm currently learning 📚</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img style="display: block; margin: 0 auto;" src="https://skillicons.dev/icons?i=react,next,python" alt="Currently Learning">
+      <img style="display: block; margin: 0 auto;" src="https://skillicons.dev/icons?i=react,next,python,kubernetes" alt="Currently Learning">
     </a>
   </p>
 
