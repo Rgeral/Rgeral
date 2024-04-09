@@ -10,7 +10,7 @@
   <h2>What I've learned at school 🎓</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img style="display: block; margin: 0 auto;" src="https://skillicons.dev/icons?i=c,cpp,docker, ts" alt="Skills">
+      <img style="display: block; margin: 0 auto;" src="https://skillicons.dev/icons?i=c,cpp,docker,ts" alt="Skills">
     </a>
   </p>
 
