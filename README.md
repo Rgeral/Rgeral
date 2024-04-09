@@ -10,14 +10,14 @@
   <h2>What I've learned at school 🎓</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img style="display: block; margin: 0 auto;" src="https://skillicons.dev/icons?i=c,cpp,docker,ts" alt="Skills">
+      <img style="display: block; margin: 0 auto;" src="https://skillicons.dev/icons?i=c,cpp,docker,ts,bash,github,graphql,nestjs,vite&perline=4" alt="Skills">
     </a>
   </p>
 
   <h2>What I'm currently learning 📚</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img style="display: block; margin: 0 auto;" src="https://skillicons.dev/icons?i=react,next,python,kubernetes" alt="Currently Learning">
+      <img style="display: block; margin: 0 auto;" src="https://skillicons.dev/icons?i=react,next,python,kubernetes,firebase&perline=4" alt="Currently Learning">
     </a>
   </p>
 
